@@ -110,7 +110,7 @@ http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJ
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Mustika", Astro Ria HD (B)
 http://linears-playback.astro.com.my/vsg/21_YiP04oA56TTwUKTsw9bZfMogOk6Y-Fa_QUcg0tJDdA=Ox-x/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png"group-title="Mustika", Astro Ria HD (C)
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Mustika", Astro Ria HD (C)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
 https://tv.kpsvpn.com/ria.mpd
