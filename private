@@ -403,9 +403,18 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115641
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115642
 #EXTINF:-1 tvg-id="" tvg-name="Channel 8 TH" tvg-logo="" group-title="Thailand",Channel 8 TH
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115644
+
 #EXTINF:-1 tvg-id="" tvg-name="MONO29 TH" tvg-logo="" group-title="Thailand",MONO29 TH
-http://ultratv.one:2095#EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="" group-title="Thailand",PPTV HD TH
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115501/b6oxQeKNTb/x0zne3Wp/115728
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MONO29 TH" tvg-logo="" group-title="Thailand",MONO29 EN
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080EN.stream/chunklist.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="" group-title="Thailand",PPTV HD TH
+http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="True4U TH" tvg-logo="" group-title="Thailand",True4U TH
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115301
 
