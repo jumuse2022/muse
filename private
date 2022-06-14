@@ -573,9 +573,13 @@ http://103.55.144.46/hls/andpictures.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="Movie",Movies Now
 http://103.55.144.46/hls/movies-now.m3u8
+http://tvone.millenium-ott.com:25443/8LdlOoBJEw/ZYLAmV8Z5H/133684
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png" group-title="Movie",Mnx
 http://103.55.144.46/hls/mnx-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png" group-title="Movie",Mnx
+http://tvone.millenium-ott.com:25443/8LdlOoBJEw/ZYLAmV8Z5H/133683
 
 #EXTINF:-1 tvg-logo="http://play.kobar.online:8080/images/f459bf66a176547908a96e42bfd3d083.png" group-title="Movie",MY Cinema 
 https://tinyurl.com/tw3x7dx4
