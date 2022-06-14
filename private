@@ -381,8 +381,7 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37456
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
 
 **************Thailand*******************
-#EXTINF:-1 tvg-id="" tvg-name="Amarin HD TH" tvg-logo="" group-title="Thailand",Amarin HD TH
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115297
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 1 HD TH MY
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 2 HD TH MY
@@ -391,7 +390,7 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115616
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115617
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 4 HD TH MY
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115618
-#EXTINF:-1 tvg-id="" tvg-name="Ch8 TH" tvg-logo="" group-title="Thailand",Ch8 TH
+#EXTINF:-1 tvg-id="" tvg-name="Ch8 TH" tvg-logo="" group-title="Thailand",Channel 8 TH
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115341
 #EXTINF:-1 tvg-id="" tvg-name="Channel 3 TH" tvg-logo="" group-title="Thailand",Channel 3 TH
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115313
@@ -405,6 +404,7 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115642
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115644
 
 #EXTINF:-1 tvg-id="" tvg-name="MONO29 TH" tvg-logo="" group-title="Thailand",MONO29 TH
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115728
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
@@ -414,7 +414,9 @@ https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080EN.stream/ch
 https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="" group-title="Thailand",PPTV HD TH
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115501
 http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="True4U TH" tvg-logo="" group-title="Thailand",True4U TH
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115301
 
