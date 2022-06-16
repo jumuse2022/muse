@@ -18,7 +18,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-id="103" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="MuZu | myFreeview",TV3
+#EXTINF:-1 tvg-id="103" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="MYTV",TV3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MYTV", TV3 (A)
@@ -258,7 +258,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=006482b5d028cea9803e89daf599a810&key=cf5be288741818ab252dba02533764be
-#EXTINF:-1 tvg-id="601" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TTV_SK.png" group-title="Pendidikan",ASTRO TUTOR TV SK
+EXTINF:-1 tvg-id="601" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TTV_SK.png" group-title="Pendidikan",ASTRO TUTOR TV SK
 https://linearjitp-playback.astro.com.my/dash-wv/linear/214/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -268,7 +268,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a778dba8725013f6f3ceea5f4025110&key=ae73ac1806eca1119473db3515ff4d60
-#EXTINF:-1 tvg-id="602" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TTV_PT3_v1.png" group-title="Pendidikan",ASTRO TUTOR TV PT3
+EXTINF:-1 tvg-id="602" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TTV_PT3_v1.png" group-title="Pendidikan",ASTRO TUTOR TV PT3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/314/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -278,7 +278,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/313/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=19a1cf0746cab453b5209892ddbf0010&key=42fb52739bf87e74dbdc872c492191b5
-#EXTINF:-1 tvg-id="603" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_SMK_v1.png" group-title="Pendidikan",ASTRO TUTOR TV SMK
+EXTINF:-1 tvg-id="603" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_SMK_v1.png" group-title="Pendidikan",ASTRO TUTOR TV SMK
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5065/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
