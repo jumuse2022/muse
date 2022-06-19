@@ -786,8 +786,9 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DuniaLain" group-title="INDONESIA" tvg-logo="https://cdn.macan.tv/img/dunialain.png", Dunia Lain
-http://mvtv.tech:33210/tepoasa\tepo123/4710
 https://delivery.macan.network/stream/dunialain/playlist.m3u8?token=mqj13k6&v=20200807
+http://mvtv.tech:33210/tepoasa\tepo123/4710
+
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/PHV9N6KXPk1NUNLlANF996glEzc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="INDONESIA",Indosiar(B)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
