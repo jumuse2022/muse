@@ -237,7 +237,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
 #EXTINF:-1 tvg-id="112" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="MYTV",ASTRO RANIA HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-#EXTINF:-1 tvg-id="112" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="MYTV",ASTRO RANIA HD (A)
+
+#EXTINF:-1 tvg-id="112" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="MYTV", ASTRO RANIA HD (A)
 http://w.nasvpn.xyz:8080/urban/urban/5085
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -287,6 +288,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Mustika",Astro Ria HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
@@ -313,6 +315,7 @@ https://Astro.kpsboyserver.com/AstroRia.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="Mustika", Astro Prima HD (A)
+https://ktiptv.cf:443/161/161/25862
 http://iptv12k.com:35461/8032022060101/452381/734
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="Mustika", Astro Oasis HD
@@ -325,6 +328,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Mustika",Astro Warna HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Mustika",Astro Warna HD (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -344,6 +348,7 @@ https://tvmalaysia.xyz:5443/LiveApp/streams/776924743231420143634296.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Mustika",Astro Citra HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Mustika",Astro Citra HD (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -549,18 +554,22 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/W0m2Mm9/e9f9ec56fff1032b8beb3fb84ad3e8e5.png" group-title="Kartun",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/1113
-#https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yVKvfKb/1200px-Disney-Junior-svg.png" group-title="Kartun",Disney JR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/1111
-#https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
+https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QNCq51D/Logo-Disney-XD.png" group-title="Kartun",Disney XD
 http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/1111
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="Kartun", Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
 **************Thailand*******************
 
@@ -572,34 +581,39 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115616
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115617
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 4 HD TH MY
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115618
-#EXTINF:-1 tvg-id="" tvg-name="Ch8 TH" tvg-logo="" group-title="Thailand",Channel 8 TH
+
+#EXTINF:-1 tvg-id="" tvg-name="Ch8 TH" tvg-logo="https://photos.live-tv-channels.org/tv-logo/th-thai-channel-8-7151.jpg" group-title="Thailand",Channel 8 TH
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115341
-#EXTINF:-1 tvg-id="" tvg-name="Channel 3 TH" tvg-logo="" group-title="Thailand",Channel 3 TH
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115313
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5 HD TH" tvg-logo="" group-title="Thailand",Channel 5 HD TH
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115640
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5 TH" tvg-logo="" group-title="Thailand",Channel 5 TH
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115641
-#EXTINF:-1 tvg-id="" tvg-name="Channel 7 HD TH" tvg-logo="" group-title="Thailand",Channel 7 HD TH
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115642
-#EXTINF:-1 tvg-id="" tvg-name="Channel 8 TH" tvg-logo="" group-title="Thailand",Channel 8 TH
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115644
 
-#EXTINF:-1 tvg-id="" tvg-name="MONO29 TH" tvg-logo="" group-title="Thailand",MONO29 TH
+#EXTINF:-1 tvg-id="" tvg-name="Channel 3 TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ch3HDLogo.png/400px-Ch3HDLogo.png" group-title="Thailand",Channel 3 TH
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115313
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 5 HD TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png" group-title="Thailand",Channel 5 HD TH
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115640
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115641
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 7 HD TH" tvg-logo="https://www.clipartmax.com/png/middle/287-2878033_channel-7-thailand-3d-channel-7-thailand-logo.png" group-title="Thailand",Channel 7 HD TH
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115642
+
+#EXTINF:-1 tvg-id="" tvg-name="MONO29 TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Thailand",MONO29 TH
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115728
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MONO29 TH" tvg-logo="" group-title="Thailand",MONO29 EN
+#EXTINF:-1 tvg-id="" tvg-name="MONO29 TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Thailand",MONO29 TH (B)
+http://freelive2.inwstream.com:1935/freelive-edge/mono29/playlist.m3u8?MURLSTVrVStWUnNPNHB6eXNxU0c0dUs5S0liT0JEZTU1K2F6b1BURVVSTEErcmZKZGxpWXZtL2JjaTVqWW56a2xCZFdldXRNcDJ4Mzc2Ni9FNEd5ckc3dGFJS3NvNFZ0a0ZPV0xTbTRCSE5LSmZwZ051dWR1dnN5TlpaeFVQZmZna0R4WlA0QmgvaTYyeGdCeVhWcHBRPT0=,f72f35a1f035a78e0b98e3e29227b6b6
+
+EXTINF:-1 tvg-id="" tvg-name="MONO29 TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Thailand",MONO29 EN
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080EN.stream/chunklist.m3u8
 https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="" group-title="Thailand",PPTV HD TH
+#EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="https://www.pngkey.com/png/detail/89-892218_pptv-hd-pptv.png" group-title="Thailand",PPTV HD TH
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115501
 http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="True4U TH" tvg-logo="" group-title="Thailand",True4U TH
+#EXTINF:-1 tvg-id="" tvg-name="True4U TH" tvg-logo="https://contentthailand.com/wp-content/uploads/2021/08/true4u.png" group-title="Thailand",True4U TH
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115301
 
 ***************Korea***************
@@ -645,7 +659,38 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png" group-title="Korea", tvN Movies HD (A)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/KaJNjF1.png" group-title="KOREA",Channel A
+http://ye23.win/iptv/korea2021.php?id=Channel
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/mGIO50z.png" group-title="KOREA",JTBC
+http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/r9gNY5R.png" group-title="KOREA",MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1920px-KBS_1_logo.svg.png" group-title="KOREA",KBS 1TV
+http://itskoi.dothome.co.kr/kbs.php?id=11
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1920px-KBS_2_logo.svg.png" group-title="KOREA",KBS 2TV
+http://itskoi.dothome.co.kr/kbs.php?id=12
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4CRXneT.png" group-title="KOREA",KBS Joy
+http://51.81.66.195:1935/krtv/kbs_joy_540/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/7XCSOFp.png" group-title="KOREA",KBS Life
+http://ppmk.my.id/korea/kor.m3u8?id=kbslife
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/BzqSUVF.png" group-title="KOREA",SBS
+http://itskoi.dothome.co.kr/sbs.php?id=S01
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/n2JajGK.png" group-title="KOREA",SBS FunE
+http://ye23.win/iptv/sbs5.1.php?id=S04
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/tzTx3Ta.png" group-title="KOREA",SBS Plus
+http://ye23.win/iptv/sbs5.1.php?id=S03
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ho02Nl2.png" group-title="KOREA",MNet
+http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 
 
 **************************************MOVIE**********************************
@@ -848,6 +893,9 @@ http://103.55.144.46/hls/sonyen.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://imgur.com/KRjdRnV.png",Colors HD
 http://103.55.144.46/hls/colore-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Hindi Movies",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 #EXTINF:-1 group-title="Hindi Sports" tvg-logo="https://imgur.com/MQ5jhMz.png",Star Sports 1 HD
 http://103.55.144.46/hls/stersports1hd.m3u8
@@ -1074,7 +1122,6 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811161847362lc0.png" group-title="Sukan",Unifi Sport 2
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Sukan",Astro Arena HD
@@ -1102,9 +1149,6 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sukan", ASTRO SUPERSPORT (A)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
-https://linearjitp-playback.astro.com.my/dash-wv/linear/601/80/video-cif-stream-1-149053966352017.m4f
-https://linearjitp-playback.astro.com.my/dash-wv/linear/601/163/video-cif-stream-6-149053968512017.m4f
-https://linearjitp-playback.astro.com.my/dash-wv/linear/601/163/video-cif-stream-5-149053971752017.m4f
 http://linears-playback.astro.com.my/vsg/41bZfaMz8f1mCpP-1YOeXl9BEHTDf1gPTuqQFi5KKyghk=sEpG/dash-wv/jitp-linearwm/601/default_primary.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sukan", ASTRO SUPERSPORT (A)
@@ -1211,6 +1255,15 @@ https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mp
 #EXTINF:-1 group-title="Sukan" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",MNC Sports 3
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
+#EXTINF:-1 group-title="Sukan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png",ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 group-title="Sukan" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ae-abu-dhabi-sports-2-5918.jpg",ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 group-title="Sukan" tvg-logo="https://www.tvlizer.com/wp-content/uploads/2020/06/AbuDhabi-Sports-3.png",ABU DHABI SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
 **************Radio********************
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
@@ -1254,62 +1307,14 @@ https://astro2.rastream.com/sinar
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
 https://astro3.rastream.com/melody
 
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA
-https://astro3.rastream.com/raaga
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://aqfad2811.github.io/logos/SyokClassicRock2021.png",SYOK Classic Rock
-https://astro4.rastream.com/rock
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://aqfad2811.github.io/logos/SyokGold2021.png",SYOK Gold
-https://astro4.rastream.com/gold
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://aqfad2811.github.io/logos/SyokOpus2021.png",SYOK Opus
-https://astro4.rastream.com/opus
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
 https://astro3.rastream.com/gegar
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://aqfad2811.github.io/logos/SyokIndiaBeat.png",SYOK India Beat
-https://astro4.rastream.com/india
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://aqfad2811.github.io/logos/SyokJazz2021.png",SYOK Jazz
-https://astro4.rastream.com/jazz
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://aqfad2811.github.io/logos/SyokOsai2021.png",SYOK Osai
-https://astro4.rastream.com/osai
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://aqfad2811.github.io/logos/SyokBayu2021.png",SYOK Bayu
-https://astro4.rastream.com/bayu
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://aqfad2811.github.io/logos/SyokKenyalang2021.png",SYOK Kenyalang
-https://astro4.rastream.com/kenyalang
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://user-images.githubusercontent.com/85995579/128818868-1f01f150-d8ec-4d0a-913c-efbd58b35536.png",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
 
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/4dW9q6P1/Sabah-VFM-New.png",VFM
-https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/4yGS2T8c/Wai-FM-New.png",WAI FM
-https://waifmi.secureswiftcontent.com/rtm-ch025/rtm-ch025/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png",TRAXX FM
-https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png",MINNAL FM
-https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/303_144.png",AI FM
-https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/rwd95Xd8/AsyikFM.png",ASYIK FM
 https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN
-https://astro3.rastream.com/astro-zayan
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png",GOXUAN
-https://astro3.rastream.com/astro-goxuan
 
 
 ************VOD********************
