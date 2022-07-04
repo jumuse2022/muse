@@ -439,8 +439,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
 #EXTINF:-1 tvg-id="501" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="Berita",ASTRO AWANI
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://videos.thematv.com/love-nature-4k.jpg" group-title="Knowledge",LOVE NATURE 4K
-http://live.tvfix.org/play/ln4k#.m3u8
+EXTINF:-1 tvg-id="" tvg-logo="https://videos.thematv.com/love-nature-4k.jpg" group-title="Knowledge",LOVE NATURE 4K
+
 
 ******************************KARTUN*****************************************
 
@@ -926,11 +926,7 @@ http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/171981
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/svm%20legend.png" group-title="Chinese",SCM Legend HD
 https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/chchd.jpg" group-title="Chinese",CHC Action Movies
-http://live.tvfix.org/play/chcatv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Phoenix_Chinese.svg/200px-Phoenix_Chinese.svg.png" group-title="Chinese",Phoenix Movies
-http://live.tvfix.org/play/fhdy
 
 **************Hindi********************
 
