@@ -553,7 +553,7 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/W0m2Mm9/e9f9ec56fff1032b8beb3fb84ad3e8e5.png" group-title="Kartun",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-http://15.235.142.241:8080/live/botolkecap/kerupukkulit/6940.ts
+https://joinstreamhub.in1.bitmana.io/premium312/playlist.m3u8
 http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/1113
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 
@@ -1011,9 +1011,6 @@ https://delivery.macan.network/stream/bioskopindonesia/playlist.m3u8?token=mqj13
 https://delivery.macan.network/stream/dunialain/playlist.m3u8?token=mqj13k6&v=20200807
 https://cdnmdc2.useetv.com/joss/14/dunialain/chunklist_w2020344872_b684100_sleng_38553.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DuniaLain" group-title="INDONESIA" tvg-logo="https://cdn.macan.tv/img/dunialain.png", Dunia Lain (B)
-http://15.235.142.241:8080/live/botolkecap/kerupukkulit/95.ts
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/PHV9N6KXPk1NUNLlANF996glEzc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="INDONESIA",Indosiar(B)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
@@ -1203,7 +1200,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sukan", ASTRO SUPERSPORT
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
-http://15.235.142.241:8080/live/botolkecap/kerupukkulit/1.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
@@ -1218,7 +1214,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sukan", ASTRO SUPERSPORT 2 (A)
-http://15.235.142.241:8080/live/botolkecap/kerupukkulit/2.ts
+http://joinstreamhub.in1.bitmana.io/premium124/playlist.m3u8
 http://linears-playback.astro.com.my/vsg/41LL9r5VuYAR8yaY6qHqdcvQzEbk0GgXbSBXKSnHOVTxU=N912/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
 
@@ -1237,7 +1233,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142715.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sukan", ASTRO SUPERSPORT 4 (A)
-http://15.235.142.241:8080/live/botolkecap/kerupukkulit/5.ts
+http://joinstreamhub.in1.bitmana.io/premium126/playlist.m3u8
 http://linears-playback.astro.com.my/vsg/416hNlVdLf6Ihj1kJFX8CFUcrplBmkn-HoA-_K63EPslI=aaga/dash-wv/jitp-linearwm/2506/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Sukan", ASTRO SUPERSPORT 5
