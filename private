@@ -1285,7 +1285,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="Sukan",GOLF CHANNEL
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Sukan",ASTRO CRICKET
@@ -1318,6 +1317,15 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 
 #EXTINF:-1 group-title="Sukan" tvg-logo="https://www.tvlizer.com/wp-content/uploads/2020/06/AbuDhabi-Sports-3.png",ABU DHABI SPORTS 3
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 group-title="Sukan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",SS Variety 1
+http://joinstreamhub.in1.bitmana.io/premium416/playlist.m3u8
+#EXTINF:-1 group-title="Sukan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",SS Variety 2
+http://joinstreamhub.in1.bitmana.io/premium417/playlist.m3u8
+#EXTINF:-1 group-title="Sukan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",SS Variety 3
+http://joinstreamhub.in1.bitmana.io/premium418/playlist.m3u8
+#EXTINF:-1 group-title="Sukan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",SS Variety 4
+http://joinstreamhub.in1.bitmana.io/premium419/playlist.m3u8
 
 **************Radio********************
 
