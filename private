@@ -570,7 +570,7 @@ http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/1111
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="Kartun", Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/larva.png" group-title="Kartun", Larva TV
+EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/larva.png" group-title="Kartun", Larva TV
 https://makanja.xyz/yt/live.php?id=Dt8JcA0Vq3k&ab_channel=WildBrainenEspa%C3%B1ol
 
 **************Thailand*******************
@@ -1007,12 +1007,12 @@ http://210.210.155.37/uq2663/h/h192/index.m3u8
 #EXTINF:-1 tvg-id="MyCinemaAsia.id" tvg-logo="https://i.ibb.co/LtTcnY0/MYCINEMAASIA.png" status="online" group-title="INDONESIA",My Cinema Asia
 http://210.210.155.35/uq2663/h/h193/index.m3u8
 
-#EXTINF:-1 tvg-id="BioskopIndonesia" tvg-name="BioskopIndonesia" group-title="INDONESIA" tvg-logo="https://cdn.macan.tv/img/bioskopindonesia.png", Bioskop Indonesia
+EXTINF:-1 tvg-id="BioskopIndonesia" tvg-name="BioskopIndonesia" group-title="INDONESIA" tvg-logo="https://cdn.macan.tv/img/bioskopindonesia.png", Bioskop Indonesia
 https://delivery.macan.network/stream/bioskopindonesia/playlist.m3u8?token=mqj13k6&v=20200807
 
 #EXTINF:-1 tvg-id="" tvg-name="DuniaLain" group-title="INDONESIA" tvg-logo="https://cdn.macan.tv/img/dunialain.png", Dunia Lain
 https://delivery.macan.network/stream/dunialain/playlist.m3u8?token=yv5faq1=20200807
-https://cdnmdc2.useetv.com/joss/14/dunialain/chunklist_w2020344872_b684100_sleng_38553.m3u8
+#https://cdnmdc2.useetv.com/joss/14/dunialain/chunklist_w2020344872_b684100_sleng_38553.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/PHV9N6KXPk1NUNLlANF996glEzc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="INDONESIA",Indosiar(B)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
