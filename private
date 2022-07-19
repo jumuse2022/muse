@@ -1031,8 +1031,10 @@ EXTINF:-1 tvg-id="BioskopIndonesia" tvg-name="BioskopIndonesia" group-title="IND
 https://delivery.macan.network/stream/bioskopindonesia/playlist.m3u8?token=mqj13k6&v=20200807
 
 #EXTINF:-1 tvg-id="" tvg-name="DuniaLain" group-title="INDONESIA" tvg-logo="https://cdn.macan.tv/img/dunialain.png", Dunia Lain
+rtp://@239.1.1.149:8868
 http://w.nasvpn.xyz:8080/urban/urban/4787
 https://delivery.macan.network/stream/dunialain/playlist.m3u8?token=yv5faq1=20200807
+#EXTINF:-1 tvg-id="" tvg-name="DuniaLain" group-title="INDONESIA" tvg-logo="https://cdn.macan.tv/img/dunialain.png", Dunia Lain
 https://cdnmdc2.useetv.com/joss/14/dunialain/chunklist_w2020344872_b684100_sleng_38553.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/PHV9N6KXPk1NUNLlANF996glEzc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="INDONESIA",Indosiar(B)
