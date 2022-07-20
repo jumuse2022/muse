@@ -851,8 +851,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TcLpjwD/logo.png" group-title="Movie",SONY PIX 
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/TcLpjwD/logo.png" group-title="Movie",SONY PIX HD
-http://iptv12k.com:35461/8032022060101/452381/2198
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TcLpjwD/logo.png" group-title="Movie",SONY PIX HD
+http://new-pro.tv:8080/mazen1/123456/72078
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="Movie",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
